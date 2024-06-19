@@ -1,5 +1,3 @@
-import { Request, Response } from "express"
+import { Request, Response } from "express";
 
-export const deleteData = (req: Request, res: Response) => {
-    
-}
+export const deleteData = (req: Request, res: Response) => {};

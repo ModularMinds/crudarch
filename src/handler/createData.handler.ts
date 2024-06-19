@@ -1,5 +1,3 @@
-import { Request, Response } from "express"
+import { Request, Response } from "express";
 
-export const createData = (req: Request, res: Response) => {
-    
-}
+export const createData = (req: Request, res: Response) => {};

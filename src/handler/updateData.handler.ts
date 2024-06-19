@@ -1,5 +1,3 @@
-import { Request, Response } from "express"
+import { Request, Response } from "express";
 
-export const updateData = (req: Request, res: Response) => {
-    
-}
+export const updateData = (req: Request, res: Response) => {};

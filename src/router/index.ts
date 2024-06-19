@@ -1,6 +1,6 @@
-import { Router } from "express"
-import { crudRouter } from "./crud.router"
+import { Router } from "express";
+import { crudRouter } from "./crud.router";
 
-export const rootRouter = Router()
+export const rootRouter = Router();
 
-rootRouter.use("/crud", crudRouter)
+rootRouter.use("/crud", crudRouter);
